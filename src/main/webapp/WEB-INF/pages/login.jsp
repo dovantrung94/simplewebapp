@@ -7,8 +7,18 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!--  tạo trang login  -->
-
+    <div ng-controller="LoginCtrl">
+       <div class="UserNamePassword">
+           <div>
+              <label><i class="fa fa-user"></i></label>
+              <input type="text" class="username" placeholder="username" >
+           </div>
+           <div>
+              <label><i class="fa fa-password"></i></label>
+              <input type="password" placeholder="passowrd">
+           </div>
+       </div>
+   </div>
 
 </body>
 </html>
