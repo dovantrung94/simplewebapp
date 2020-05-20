@@ -13,5 +13,6 @@
   <filter-mapping>
   	<filter-name>MyFilter</filter-name>
   	<url-pattern>/MyFilter</url-pattern>
+gágdsadg
   </filter-mapping>
 </web-app>
