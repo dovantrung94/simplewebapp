@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	var hdCompanyId = params[0].substring(params[0].indexOf("=") + 1, params[0].length);
 
 	// ************************ CONNECT CHAT*****************************
-	// connectSocket
+	// connectSocketgsdagasdgasdg
 	var checkConnectFalse = false;
 	var socket;
 	var urlSocket = "ws://192.168.20.242:8001/websocket";
